@@ -1,3 +1,3 @@
 # Medi. - A Meditation Landing Page
 
-[Live Demo](https://github.com/facebook/create-react-app).
+# [Live Demo](https://upbeat-edison-4cfee1.netlify.app/)
